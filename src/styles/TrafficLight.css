@@ -1,0 +1,41 @@
+.stem {
+    width: 10px;
+    height: 70px;
+    background-color: black;
+    margin: auto;
+}
+
+.traffic-light-body {
+    width: 100px;
+    height: 270px;
+    background-color: black;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px 10px;
+}
+
+.red {
+    width: 80px;
+    height:80px;
+    background-color: red;
+    border-radius: 40px;
+}
+
+.yellow {
+    width: 80px;
+    height:80px;
+    background-color: yellow;
+    border-radius: 40px;
+    margin: 5px 0;
+}
+
+.green {
+    width: 80px;
+    height:80px;
+    background-color: green;
+    border-radius: 40px;
+}
+
+.selected {
+    box-shadow: 0px 0px 50px yellow;
+}
